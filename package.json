@@ -1,0 +1,38 @@
+{
+  "name": "react-native-custom-dropdown-select",
+  "version": "1.0.4",
+  "description": "A simple and customizable React Native component for select with dropdown and customizabe style",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shridharmanitripathi/react-native-custom-dropdown-select.git"
+  },
+  "keywords": [
+    "react-native-select",
+    "react-select-dropdown",
+    "react-native-custom-dropdown-select",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "dropdown",
+    "select",
+    "react-native-custom-select-dropdown"
+  ],
+  "author": "Shridhar Mani Tripathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shridharmanitripathi/react-native-custom-dropdown-select/issues"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0",
+    "react-native": "^0.68.1"
+  },
+  "dependencies": {
+    "react-native-vector-icons": "*"
+  },
+  "homepage": "https://github.com/shridharmanitripathi/react-native-custom-dropdown-select#readme"
+}
