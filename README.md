@@ -7,6 +7,11 @@
 
 <h3 align="center">React Native Custom Dropdown Select</h3>
 
+
+<div align="center">
+<img src="./images/close.png" height=300 width=180>
+<img src="./images/open.png" height=300 width=180>
+</div>
   <p align="center">
     <br />
     <a href="https://github.com/shridharmanitripathi/react-native-custom-dropdown-select/issues">Report Bug</a>
@@ -21,12 +26,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
