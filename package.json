@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-dropdown-select",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A simple and customizable React Native component for select with dropdown and customizabe style",
   "main": "src/index.js",
   "scripts": {
