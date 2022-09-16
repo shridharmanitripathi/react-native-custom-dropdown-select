@@ -48,7 +48,7 @@
 
 ### Prerequisites
 
-In order to use this package with a react antive app you will need the development environment configured for react native i.e., Node, the React Native command line interface, a JDK, and Android Studio.
+In order to use this package with a react native app you will need the development environment configured for react native i.e., Node, the React Native command line interface, a JDK, and Android Studio.
 
 ### Installation & Setup instructions for Functional components:
 
@@ -180,10 +180,4 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/shridharmanitripathi/react-native-custom-dropdown-select](https://github.com/shridharmanitripathi/react-native-custom-dropdown-select)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
